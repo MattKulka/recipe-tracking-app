@@ -15,6 +15,6 @@ Webview of Recipe Tracking app:
 
 Step by step view of the apps functionality:
 
-![Recipe1](https://github.com/MattKulka/recipe-tracking-app/assets/92747257/301fed93-5229-4342-9e76-05f8afa7dd98)
-![Recipe2](https://github.com/MattKulka/recipe-tracking-app/assets/92747257/714051d3-4c38-4ab3-addd-0c17cac80b36)
-![Recipe 3](https://github.com/MattKulka/recipe-tracking-app/assets/92747257/227cd1a2-055d-4a31-8be5-1f4ad158e0f4)
+![Recipe1](https://github.com/MattKulka/recipe-tracking-app/assets/92747257/f5f270b7-575c-4fff-b164-267745ba5b82)
+![Recipe2](https://github.com/MattKulka/recipe-tracking-app/assets/92747257/4ac7644f-3442-41ce-8acd-76dbf1553552)
+![Recipe 3](https://github.com/MattKulka/recipe-tracking-app/assets/92747257/704f52cd-af9e-4718-8460-57b76bc961c3)
