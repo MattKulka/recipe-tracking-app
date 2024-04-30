@@ -7,7 +7,7 @@ This recipe tracking app allows users to add, create, and delete recipes. It als
 Features
 
 Add, create, and delete recipes
-Categorize recipes by cuisine
+Categorize recipes by cuisine 
 Add a name, photo, ingredients, and preparation instructions to each recipe
 Search for recipes by name, ingredient, or cuisine
 View a list of all recipes or a list of recipes filtered by cuisine
